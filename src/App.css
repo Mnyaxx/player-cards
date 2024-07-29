@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* src/App.css */
+
+/* src/App.css */
+
+.App {
+  text-align: center;
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallspic.com%2Fimage%2F172481-gaming-gamer-online_game-water-purple&psig=AOvVaw2U1MpzQ5-bjC5r1bpJJJa-&ust=1722337563167000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLizjMqNzIcDFQAAAAAdAAAAABAK'); /* Website background image */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #351E29; /* Change to your desired color */
+  text-align: center; /* Centers the text horizontally */
+  margin-bottom: 20px; /* Adjust as needed */
+}
+

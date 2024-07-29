@@ -1,0 +1,12 @@
+/* src/Player.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.card-title {
+  text-align: center;
+  font-family: 'Roboto', sans-serif; /* Font family */
+}
+
+.card-body {
+  background-color: #f8f9fa; /* Card background color */
+}
